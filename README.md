@@ -16,7 +16,7 @@ The goal is to predict the **`SalePrice`** of each house in the test set.
 - `train.csv` – Training dataset with features and `SalePrice` (target)
 - `test.csv` – Test dataset without `SalePrice`
 - `data_description.txt` – Full metadata for all 79 variables
-- `sample_submission.csv` – Format for final Kaggle submission
+- `submission.csv` – Final prediction file
 
 ---
 
